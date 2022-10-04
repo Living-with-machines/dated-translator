@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "dated-translator"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "A Python package that helps translate from one term to another, depending on a passed date, from a CSV that contains some verified information."
 authors = ["Kalle Westerling <kalle.westerling@bl.uk>"]
+readme = "README.md"
+homepage = "https://github.com/Living-with-machines/dated-translator"
+repository = "https://github.com/Living-with-machines/dated-translator"
 
 [tool.poetry.dependencies]
 python = "^3.9"

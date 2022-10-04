@@ -4,7 +4,7 @@ from dated_translator.exceptions import SetupError, MissingColumn
 
 
 def test_version():
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.1.1"
 
 
 def test_Lookup_simple_setup():
