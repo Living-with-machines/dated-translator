@@ -1,5 +1,6 @@
 # dated-translator
 
+[![DOI record for the repository](https://zenodo.org/badge/DOI/10.5281/zenodo.13946553.svg)](https://doi.org/DOI/10.5281/zenodo.13946553)
 [![All Contributors](https://img.shields.io/github/all-contributors/Living-with-machines/dated-translator?color=ee8449&style=flat-square)](#contributors)
 
 A Python package that helps translate from one term to another, depending on a passed date, from a CSV that contains some verified information.
