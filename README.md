@@ -1,5 +1,7 @@
 # dated-translator
 
+[![All Contributors](https://img.shields.io/github/all-contributors/Living-with-machines/dated-translator?color=ee8449&style=flat-square)](#contributors)
+
 A Python package that helps translate from one term to another, depending on a passed date, from a CSV that contains some verified information.
 
 ## Getting started
@@ -77,3 +79,14 @@ lookup.right_translate(31, "1800-01-01")
 ```
 
 The result should, in a reverse of the result above, be `['ANJO']`, that is, a list of the possible abbreviations for this NLP in on this particular date.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
